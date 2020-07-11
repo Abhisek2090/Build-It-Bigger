@@ -1,0 +1,4 @@
+include ':myJokesLibrary'
+include ':jokesLib'
+include ':jokesactivitylibrary'
+include ':app', ':backend'
